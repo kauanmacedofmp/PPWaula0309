@@ -4,6 +4,7 @@ Aula de HTML de Prática de Programação Web
 center — centraliza o conteúdo. Está obsoleta no HTML moderno; o ideal é usar CSS.
 <br>
 head — contém informações/configurações da página.
+<br>
 title — define o título que aparece na aba do navegador.
 meta — define metadados da página, como codificação e viewport.
 header — representa o cabeçalho de uma página/seção.
