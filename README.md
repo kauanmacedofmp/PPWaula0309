@@ -1,10 +1,8 @@
 # PPWaula0309
 Aula de HTML de Prática de Programação Web
 # Tags Utilizadas
-center — centraliza o conteúdo. Está obsoleta no HTML moderno; o ideal é usar CSS.
-<br>
+- center — centraliza o conteúdo. Está obsoleta no HTML moderno; o ideal é usar CSS.
 head — contém informações/configurações da página.
-<br>
 title — define o título que aparece na aba do navegador.
 meta — define metadados da página, como codificação e viewport.
 header — representa o cabeçalho de uma página/seção.
